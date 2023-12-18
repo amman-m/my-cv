@@ -1,17 +1,15 @@
-# my-cv
-amman
-git ch
-
-Hi this is simple paragraph
-and this is also the part of line.
-Yeah, this is another paragraph.
-
-# Main Heading 
-## Sub Heading
-### may be used as topic heading
-#### sub-topic headings
-##### another heading
-###### smallest heading
-
-
-I read a lot and also write some cool blogs. You can read [My blog](https://medium.com/itsjzt) here.
+# 1-assign-multi-value
+# 2-data-type
+# 3-exercise-veriable
+# 4-globling
+# 5-mody-string
+# 6-output-variable
+# 7-py-string
+# 8-python-nom
+# 9-python-casting
+# 10-python-comments
+# 11-python-intro
+# 12-python-tutorial
+# 13-python-veriable
+# 14-string-silicing
+# 15-veriable-name
